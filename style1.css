@@ -1,0 +1,64 @@
+<DOCTYPE! html>
+<style>
+body
+{font-family:Arial,
+sans-serif;}
+img
+{width:200px;
+height:200px;}
+color-title{font-weight:normal}
+  #red{color: red;}
+  #blue{color:blue}
+  #green{color: green;}
+  #purple{color:purple}
+  #white{color:white}
+
+header{
+  background-color: purple;
+  color:white;
+  padding: 20px;
+  text-align: center;
+}
+header h1
+{margin:0;}
+
+nav{background-color:purple;
+ color:white;
+padding:20px;
+text-align:center;}
+nav ul
+{list-style:none;margin:0;
+padding:0;
+display:inline-block;}
+nav li
+{display:inline-block;
+margin-right:20px;
+}
+nav a
+{color:white;
+text-decoration:none;
+}
+main
+{padding:20px;
+text-align:center;
+}
+footer
+{background-color: purple;
+color:white;
+padding:20px;
+text-align:center;
+}
+button
+{background-color:purple;
+border:none;
+border-radius: 10px;
+color:white;
+padding:15px 32px;
+text-align:center;
+text-decoration:none;
+display:inline-block;
+font-size:16px;
+}
+</style>
+</html>
+
