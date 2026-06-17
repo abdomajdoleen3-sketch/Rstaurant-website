@@ -1,0 +1,170 @@
+*{
+background-color:#EEE0CC;
+}
+#title {
+    text-align: center;
+    background-color: #BA6A4C;
+}
+nav{
+    text-align: center;
+    padding-right: 50px;
+}
+nav ul li {
+    display: inline;
+}
+.hero h2{
+    font-size: x-large;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.hero p{
+    text-align: center;
+}
+button {
+    border:solid,#BA6A4C,4px;
+    background-color:#EEE0CC;
+    margin-left: 550px;
+}
+
+#about{
+    border: solid ,#BA6A4C;
+    margin-left:3px;
+    margin-right:3px;
+    margin-top:8px;
+    padding-left:0px;  
+    text-align: center;
+    background-image: url(RST.jpeg);
+} 
+#abus{
+    background-color: #EEE0CC;
+}
+#welcom{
+    background-color: #BA6A4C;
+    margin-bottom: auto;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+#Tasty{
+    background-color: #BA6A4C;
+    margin-top: 0cap;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family: 'Courier New',Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #BA6A4C;
+}
+.menu-item-pizza{
+    border: solid,#BA6A4C,4px;
+    padding-left: 10px;
+    padding-right: 0%;
+    padding-top:10px;
+}
+#pizza{
+    width:250px;
+    height:200px;
+}
+.menu-item-pizza-pepperoni{
+    border:#BA6A4C,solid,4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left:10px;
+}
+#pepperoni{
+    width:250px;
+    height:200px;
+}
+.menu-item-pizza-Vegetarian{
+    border:#BA6A4C,solid,4px;
+    padding-left: 10px;
+    padding-top:10px;
+}
+#vegetarian{
+    width:250px;
+    height:200px;
+}
+h3 {
+    display: inline;
+    background-color: #EEE0CC;
+    margin: 4px,0px,10px,4px;
+}
+#outo{
+    background-color:#EEE0CC;
+    margin: 4px,4px;
+    font-weight:600 ;
+    font-size: larger;
+}
+h3,p{
+    display: inline;
+}
+.menu-item-drinks{
+    border:solid ,#BA6A4C,4px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#menu-item-drinks{
+    background-color: #BA6A4C;
+    font-weight: bold;
+}
+#Drinks{
+    font-weight:bolder;
+    font-size: larger;
+}
+.menu-item-burger-classic{
+    border: #BA6A4C,solid,4px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left:10px;
+}
+#classic{
+    width: 250px;
+    height: 200px;
+}
+.menu-item-burger-cheese{
+    border: #BA6A4C,solid,4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left:10px;
+}
+#cheese{
+    width: 250px;
+    height: 200px;
+}
+.menu-item-burger-chiken{
+    border: #BA6A4C,solid,4px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding-left:10px;
+    padding-top:10px;
+}
+#chiken{
+    width:250px;
+    height:200px;
+}
+#contact{
+    text-align: center;
+    font-weight: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#msb{
+    display: block;
+    font-size: large;
+}
+#phone{
+    display: block;
+    font-size: large;
+}
+#opd{
+    display: block;
+    font-size: large;
+}
+footer{
+    border: #BA6A4C,solid,4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    text-align: center;
+}
